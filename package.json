@@ -1,0 +1,10 @@
+{
+  "name": "use-breadcrumbs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "peerDependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-router-dom": "^6.2.2"
+  }
+}
