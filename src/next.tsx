@@ -29,4 +29,4 @@ const useBreadcrumbs = () => {
   return breadcrumbs
 }
 
-export default useBreadcrumbs
+export { useBreadcrumbs }
